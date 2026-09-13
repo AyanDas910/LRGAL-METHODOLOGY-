@@ -1,0 +1,6 @@
+{
+  "name": "Legal Metrology Compliance System",
+  "description": "Automated inspection and compliance verification system for packaged commodities under the Legal Metrology Act, 2009 and Legal Metrology (Packaged Commodities) Rules, 2011 by the Department of Consumer Affairs (DoCA).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
